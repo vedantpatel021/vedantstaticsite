@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Vedant Patel Render Site</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+	<h1>Render Static Site</h1>
+	<ul>
+		<li><strong>Name: </strong>Vedant Patel</li>
+		<li><strong>GitHub Location: </strong><a
+				href="https://github.com/vedantpatel021/vedantstaticsite">https://github.com/vedantpatel021/vedantstaticsite</a>
+		</li>
+		<li><strong>Terpconnect Location: </strong><a
+				href="https://terpconnect.umd.edu/~vedpatel/terpconnect_static_site/">https://terpconnect.umd.edu/~vedpatel/terpconnect_static_site/</a>
+		</li>
+	</ul>
+</body>
+
+</html>
